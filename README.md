@@ -33,5 +33,3 @@ Before installing [ToolBox], ensure that you have the following dependencies set
    cd toolbox
    chmod +x toolbox.sh
    ./toolbox.sh
-
-```
