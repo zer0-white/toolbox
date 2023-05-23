@@ -29,8 +29,9 @@ Before installing [ToolBox], ensure that you have the following dependencies set
 2. Clone the [ToolBox] repository from GitHub:
 
    ```shell
-   git clone https://github.com/your-username/[toolbox].git
+   git clone https://github.com/zer0-white/toolbox.git
    cd toolbox
    chmod +x toolbox.sh
    ./toolbox.sh
 
+```
